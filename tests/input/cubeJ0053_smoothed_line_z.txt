@@ -1,0 +1,3 @@
+# Line UID, pix_x, pix_y, pix_z, freq, (opt.) redshift
+1,89,89,1322,9.487e+10,3.879
+2,30,40,590,8.923e+10,
